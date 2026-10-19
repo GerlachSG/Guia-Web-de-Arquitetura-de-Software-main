@@ -1,7 +1,7 @@
 # Guia Web de Arquitetura de Software e Gestão de Projetos
 
 ## Link para visualização do Website
-[https://github.com/GerlachSG/Guia-Web-de-Arquitetura-de-Software-main](https://github.com/GerlachSG/Guia-Web-de-Arquitetura-de-Software-main)
+[Visualização Igor Gerlach](https://gerlachsg.github.io/Guia-Web-de-Arquitetura-de-Software/)
 
 ## Identificação
 * Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas - 4º semestre
